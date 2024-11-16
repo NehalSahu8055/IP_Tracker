@@ -1,0 +1,24 @@
+{
+  "name": "ipaddresstracker",
+  "version": "1.0.0",
+  "description": "IP address tracker",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliavrs/ip-address-tracker.git"
+  },
+  "author": "Natalia Veras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nataliavrs/ip-address-tracker/issues"
+  },
+  "homepage": "https://github.com/nataliavrs/ip-address-tracker#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "parcel": "^2.10.2"
+  }
+}
